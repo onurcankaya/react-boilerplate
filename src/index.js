@@ -4,7 +4,6 @@ import { Router, Route, IndexRoute, browserHistory } from 'react-router';
 import Main from './components/Main';
 
 // Load foundation
-import foundation from 'style!css!foundation-sites/dist/foundation.min.css';
 $(document).foundation();
 
 // CSS
