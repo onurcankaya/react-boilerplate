@@ -7,7 +7,7 @@ import Main from './components/Main';
 $(document).foundation();
 
 // CSS
-import css from 'style!css!sass!../styles/index.scss';
+import css from 'style!css!sass!applicationStyles';
 
 ReactDOM.render(
   <Router history={browserHistory}>
